@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <shape android:shape="rectangle">
+        <gradient
+            android:angle="270"
+            android:startColor="@color/button_light_orange_dim"
+            android:centerColor="@color/button_dark_orange_dim"
+            android:endColor="@color/button_light_orange_dim"/>
+        <corners
+            android:radius="10dp" />
+    </shape>
+</item>
+<item android:top="24dp">
+    <shape android:shape="rectangle">
+        <gradient
+            android:angle="270"
+            android:startColor="@color/button_dark_orange"
+            android:centerColor="@color/button_dark_orange"
+            android:endColor="@color/button_light_orange"/>
+        <corners
+            android:radius="6dp" />
+    </shape>
+</item>
+</layer-list>

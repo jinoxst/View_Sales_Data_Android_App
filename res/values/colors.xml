@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_window">#FFE5E5E5</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="tab_fontcolor">#ffffff</color>
+    <color name="actionbar_titlecolor">#FFF4842D</color>
+    <color name="border_color">#ffffff</color>
+    <color name="main_textcolor">#ffffff</color>
+    <color name="ht_border_color">#e2e2e2</color>
+    <color name="small_label_white">#ffffff</color>
+    <color name="small_label_gray">#e2e2e2</color>
+    <color name="small_data_yellow">#ffff00</color>
+    <color name="small_data_black">#000000</color>
+    <color name="small_data_white">#ffffff</color>
+    <color name="large_amount_yellow">#ffff00</color>
+    <color name="large_amount_red">#bb3d00</color>
+    <color name="large_amount_white">#ffffff</color>
+    <color name="title_background_strong">#494949</color>
+    <color name="button_dark_orange">#ee7700</color>
+    <color name="button_dark_orange_dim">#ff9224</color>
+    <color name="button_light_orange">#ffc993</color>
+    <color name="button_light_orange_dim">#ffdfbf</color>
+    <color name="button_light_orange_dimdim">#ffebd7</color>
+    <color name="button_default">#844200</color>
+    <color name="button_focus">#ffffff</color>
+    <color name="dialog_text_color">#ffffff</color>
+    <color name="simple_dialog_text_color">#000000</color>
+    <color name="tab_frame_gray">#898989</color>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">itemgarage</string>
+    <string name="actionbar_title1">売上</string>
+    <string name="actionbar_title2">導入店舗数</string>
+    <string name="actionbar_title3">在庫</string>
+    <string name="uriage_total_cnt">総販売数(個)</string>
+    <string name="uriage_total_sum">総販売額(円)</string>
+    <string name="yen_mark">￥</string>
+    <string name="yen_mark_jp">円</string>
+    <string name="img_desc"></string>
+    <string name="uriage_item_cnt">販売数(個)</string>
+    <string name="uriage_item_sum">販売額(円)</string>
+    <string name="uriage_detail_title1">アイテム</string>
+    <string name="uriage_detail_title2">販売数(個)</string>
+    <string name="uriage_detail_title3">販売額(円)</string>
+    <string name="refresh">更新</string>
+    <string name="calendar">月</string>
+    <string name="datepicker_min_year">2013</string>
+    <string name="button_search">設定</string>
+    <string name="button_cancel">キャンセル</string>
+    <string name="calendar_setting">年/月選択</string>
+    <string name="alert_dialog_error_protocol_contents">サーバーのデータ取込中エラーが発生しました。\nアプリ管理者に問い合わせください。</string>
+    <string name="alert_dialog_error_system_contents">システムエラーが発生しました。\nアプリ管理者に問い合わせください。</string>
+    <string name="alert_dialog_error_network_contents">インターネット接続に失敗しました。\nネットワーク設定を確認してからもう一度やってみてください。</string>
+    <string name="button_dialog_ok">確認</string>
+    <string name="honbu_alive_cnt">本部</string>
+    <string name="total_delete_cnt">TOTAL / 解約</string>
+    <string name="shop_alive_cnt">店舗</string>
+    <string name="slash">/</string>
+    <string name="stock_detail_title1">アイテム</string>
+    <string name="stock_detail_title2">単価</string>
+    <string name="stock_detail_title3">在庫</string>
+
+</resources>
